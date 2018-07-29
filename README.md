@@ -1,2 +1,4 @@
-# CA-KNNFloatImgSpark
-CS110 (Computer Architecture) Project 3 - KNN Float Image Outlier Removal in Spark
+## KNN Float Image Outlier Removal in Spark
+- Type: [CS110] Computer Architecture I Project 4
+- Language: Python
+- Tutor: Prof. Soren Schwertfeger
